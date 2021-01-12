@@ -69,7 +69,3 @@ Navigate to the directory "mukka.4/Assignment4" on hoare and issue the below com
 <ul> or </ul>
 <ul> rm -f oss user </ul>
 This command is used to remove oss and user executable files. If log file and other generated files needs to be removed the same 'rm' command with file names can be used.
-
-### Updated project info can always be found at
-* [My Project](https://github.com/mukka29/Operating-Systems)
-
